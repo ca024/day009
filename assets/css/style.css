@@ -6,7 +6,28 @@
 }
 
 body {
-  background-color: whitesmoke;
+  background-color: #cee5d0;
   font-family: "Nunito", sans-serif;
   text-align: center;
+  color: whitesmoke;
+}
+
+h1,
+a,
+button,
+footer {
+  color: #5e454b;
+}
+
+main {
+  background-color: #5e454b;
+}
+
+a {
+  background-color: #f3f0d7;
+}
+
+button {
+  background-color: #f7d59c;
+  font-family: "Nunito", sans-serif;
 }
